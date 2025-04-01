@@ -128,7 +128,7 @@ def main():
                 print("Task not found!")
         
         elif choice == "8":
-            print("Exiting Task Management System. Goodbye!")
+            print("Exiting Task Management System, Goodbye!")
             break
         
         else:
