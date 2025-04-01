@@ -125,7 +125,7 @@ def main():
             if task:
                 print(f"Task deleted successfully!\n{task}")
             else:
-                print("Task not found!")
+                print("Task not found")
         
         elif choice == "8":
             print("Exiting Task Management System, Goodbye!")
